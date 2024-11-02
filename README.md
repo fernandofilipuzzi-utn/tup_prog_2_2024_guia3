@@ -1,1 +1,1 @@
-# tup_prog_2_2024_guia3
+# Guía 3. Jerarquía de clases - parte 1 Herencia
